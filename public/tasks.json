@@ -1,0 +1,1396 @@
+{
+  "Tasks": [
+    {
+      "id": 0,
+      "module": 1,
+      "unit": "The Constitution | Introduction",
+      "page": "Module Overview",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 1,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 2,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Age of Enlightenment",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 3,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Age of Enlightenment",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 4,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "The Social Contract",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 5,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "The Social Contract",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 6,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "The State of Nature",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 7,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "The State of Nature",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 8,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Founding Documents",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 9,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Founding Documents",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 10,
+      "module": 1,
+      "unit": "The Constitution | Political Philosophy",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 11,
+      "module": 1,
+      "unit": "The Constitution | Consider final project topics",
+      "page": "Consider final project topics",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 12,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 13,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "The Origins",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 14,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "The Origins",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 15,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "Purpose",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 16,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "Weaknesses",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 17,
+      "module": 1,
+      "unit": "The Constitution | Articles of Confederation",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 18,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 19,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Debate and Compromise",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 20,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Debate and Compromise",
+      "activity_type": "video",
+      "weight": 30.0
+    },
+    {
+      "id": 21,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Slavery and Freedom",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 22,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Slavery and Freedom",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 23,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Powers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 24,
+      "module": 1,
+      "unit": "The Constitution | Constitutional Convention",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 25,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 26,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Differing Views",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 27,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Differing Views",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 28,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Results",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 29,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Federalist Essays 10 and 51",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 30,
+      "module": 1,
+      "unit": "The Constitution | Federalist / Anti-Federalist",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 31,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 32,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Legislative Branch",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 33,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Legislative Branch",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 34,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Executive Branch",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 35,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Executive Branch",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 36,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Judicial Branch",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 37,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Judicial Branch",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 38,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "The Federalist System",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 39,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "The Federalist System",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 40,
+      "module": 1,
+      "unit": "The Constitution | Separation of Powers",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 41,
+      "module": 1,
+      "unit": "The Constitution | Module Practice Quiz",
+      "page": "Review",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 42,
+      "module": 1,
+      "unit": "The Constitution | Module Practice Quiz",
+      "page": "Practice Quiz",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 43,
+      "module": 2,
+      "unit": "Checks and Balances | Introduction",
+      "page": "Module Overview",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 44,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 45,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Powers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 46,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Powers",
+      "activity_type": "video",
+      "weight": 25.0
+    },
+    {
+      "id": 47,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Process",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 48,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Process",
+      "activity_type": "video",
+      "weight": 30.0
+    },
+    {
+      "id": 49,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Bicameralism",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 50,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Drawing Districts",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 51,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Drawing Districts",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 52,
+      "module": 2,
+      "unit": "Checks and Balances | The Legislative Branch",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 53,
+      "module": 2,
+      "unit": "Checks and Balances | Consider final project topics",
+      "page": "Consider final project topics",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 54,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 25.0
+    },
+    {
+      "id": 55,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "The Presidency",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 56,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "The Presidency",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 57,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Powers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 58,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Powers",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 59,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Limitations",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 60,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Policies",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 61,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Transitions",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 62,
+      "module": 2,
+      "unit": "Checks and Balances | The Executive Branch",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 63,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 25.0
+    },
+    {
+      "id": 64,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Evolution",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 65,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Evolution",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 66,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Interpretation",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 67,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Interpretation",
+      "activity_type": "video",
+      "weight": 25.0
+    },
+    {
+      "id": 68,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Three Tiers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 69,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Federalism",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 70,
+      "module": 2,
+      "unit": "Checks and Balances | The Judicial Branch",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 71,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 72,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Federal Powers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 73,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "States’ Powers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 74,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Key Clauses",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 75,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Key Cases",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 76,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Key Cases",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 77,
+      "module": 2,
+      "unit": "Checks and Balances | American Federalist System",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 78,
+      "module": 2,
+      "unit": "Checks and Balances | Module Practice Quiz",
+      "page": "Review & Practice Quiz",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 79,
+      "module": 3,
+      "unit": "Participation | Introduction",
+      "page": "Module Overview",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 80,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 81,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Congress",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 82,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Campaign Finance",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 83,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Campaign Finance",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 84,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Presidential Elections",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 85,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Presidential Elections",
+      "activity_type": "video",
+      "weight": 35.0
+    },
+    {
+      "id": 86,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Running for Office",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 87,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Running for Office",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 88,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Electoral College",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 89,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Electoral College",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 90,
+      "module": 3,
+      "unit": "Participation | Elections",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 91,
+      "module": 3,
+      "unit": "Participation | Finalize topics for Task 1",
+      "page": "Finalize topics for Task 1",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 92,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 93,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Purpose and Strategy",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 94,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Purpose and Strategy",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 95,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Fundraising",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 96,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Impact and Influence",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 97,
+      "module": 3,
+      "unit": "Participation | Interest Groups",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 98,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 99,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Rights",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 100,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Rights",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 101,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Registration",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 102,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Turnout",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 15.0
+    },
+    {
+      "id": 103,
+      "module": 3,
+      "unit": "Participation | Voting",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 104,
+      "module": 3,
+      "unit": "Participation | Module Practice Quiz",
+      "page": "Review & Practice Quiz",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 105,
+      "module": 3,
+      "unit": "Participation | Review Task 1 Instructions",
+      "page": "Review Task 1 Instructions",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 106,
+      "module": 3,
+      "unit": "Participation | Draft Task 1",
+      "page": "Draft Task 1",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 107,
+      "module": 3,
+      "unit": "Participation | Submit Task 1",
+      "page": "Submit Task 1",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 108,
+      "module": 4,
+      "unit": "Civil Rights | Introduction",
+      "page": "Module Overview",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 109,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 110,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Civil Rights",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 111,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Civil Rights",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 112,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Discrimination",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 113,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "The Movement",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 114,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "The Movement",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 115,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Civil Liberties",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 116,
+      "module": 4,
+      "unit": "Civil Rights | Rights and Liberties",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 117,
+      "module": 4,
+      "unit": "Civil Rights | Finalize topics for Task 2",
+      "page": "Finalize topics for Task 2",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 118,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 35.0
+    },
+    {
+      "id": 119,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendment 1",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 120,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Freedom of Religion",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 121,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Freedom of Religion",
+      "activity_type": "video",
+      "weight": 45.0
+    },
+    {
+      "id": 122,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Freedom of Expression",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 123,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Freedom of Expression",
+      "activity_type": "video",
+      "weight": 25.0
+    },
+    {
+      "id": 124,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendments 2-3",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 125,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendments 2-3",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 126,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendments 5-7",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 127,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendments 5-7",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 128,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Amendment 8",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 129,
+      "module": 4,
+      "unit": "Civil Rights | The Bill of Rights",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 130,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 131,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "The 14th Amendment",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 132,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "The 14th Amendment",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 133,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Separate but Equal",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 134,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Separate but Equal",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 135,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Marriage Equality",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 136,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Equal Rights",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 137,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Equal Rights",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 138,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Women’s Rights",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 139,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Women’s Rights",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 140,
+      "module": 4,
+      "unit": "Civil Rights | Individual Freedoms",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 141,
+      "module": 4,
+      "unit": "Civil Rights | Module Practice Quiz",
+      "page": "Review & Practice Quiz",
+      "activity_type": "Reading",
+      "weight": 20.0
+    },
+    {
+      "id": 142,
+      "module": 4,
+      "unit": "Civil Rights | Review Task 2 Instructions",
+      "page": "Review Task 2 Instructions",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 143,
+      "module": 4,
+      "unit": "Civil Rights | Draft Task 2",
+      "page": "Draft Task 2",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 144,
+      "module": 4,
+      "unit": "Civil Rights | Submit Task 2",
+      "page": "Submit Task 2",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 145,
+      "module": 5,
+      "unit": "Media's Role | Introduction",
+      "page": "Module Overview",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 146,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 147,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Society",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 148,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Society",
+      "activity_type": "video",
+      "weight": 20.0
+    },
+    {
+      "id": 149,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Citizens",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 150,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Citizens",
+      "activity_type": "video",
+      "weight": 10.0
+    },
+    {
+      "id": 151,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Campaigns",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 152,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Governance",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 153,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "…On Governance",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 154,
+      "module": 5,
+      "unit": "Media's Role | Media Impact",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 155,
+      "module": 5,
+      "unit": "Media's Role | Finalize topics for Task 3",
+      "page": "Finalize topics for Task 3",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 156,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 157,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "A Free Press",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 158,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "A Free Press",
+      "activity_type": "video",
+      "weight": 5.0
+    },
+    {
+      "id": 159,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "FCC Regulations",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 160,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "Government Sources",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 161,
+      "module": 5,
+      "unit": "Media's Role | Political Watchdog",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 162,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Introduction",
+      "activity_type": "Reading",
+      "weight": 5.0
+    },
+    {
+      "id": 163,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Polling",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 164,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Polling",
+      "activity_type": "video",
+      "weight": 15.0
+    },
+    {
+      "id": 165,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Influencers",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 10.0
+    },
+    {
+      "id": 166,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Ideologies",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 167,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Government Action",
+      "activity_type": "Reading & Knowledge Check",
+      "weight": 5.0
+    },
+    {
+      "id": 168,
+      "module": 5,
+      "unit": "Media's Role | Public Opinion",
+      "page": "Summary & Lightning Round",
+      "activity_type": "Reading",
+      "weight": 10.0
+    },
+    {
+      "id": 169,
+      "module": 5,
+      "unit": "Media's Role | Module Practice Quiz",
+      "page": "Review & Practice Quiz",
+      "activity_type": "Review",
+      "weight": 10.0
+    },
+    {
+      "id": 170,
+      "module": 5,
+      "unit": "Media's Role | Review Task 3 Instructions",
+      "page": "Review Task 3 Instructions",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 171,
+      "module": 5,
+      "unit": "Media's Role | Draft Task 3",
+      "page": "Draft Task 3",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 172,
+      "module": 5,
+      "unit": "Media's Role | Submit Task 3",
+      "page": "Submit Task 3",
+      "activity_type": "Reading",
+      "weight": 15.0
+    },
+    {
+      "id": 173,
+      "module": 5,
+      "unit": "Media's Role | Resubmit tasks as needed",
+      "page": "Resubmit tasks as needed",
+      "activity_type": "Reading",
+      "weight": 15.0
+    }
+  ]
+}
