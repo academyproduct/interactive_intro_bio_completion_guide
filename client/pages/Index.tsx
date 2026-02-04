@@ -285,17 +285,17 @@ const handleTaskToggle = (weekNumber: number, dayKey: string, taskId: number) =>
     <div className="min-h-screen bg-white py-20 px-4 sm:px-8 md:px-16 lg:px-32">
       <div className="max-w-[1289px] mx-auto flex flex-col items-center gap-10">
         <h1 className="text-4xl sm:text-5xl font-bold text-black text-center font-lato">
-          American Politics & the U.S. Constitution Completion Guide
+          Introduction to Biology Completion Guide
         </h1>
 
         <div className="max-w-[911px] text-center">
           <p className="text-base text-black font-lato">
-            Ready to get organized and stay on track? You can generate an <span className="font-bold">Interactive American Politics & the U.S. Constitution Completion Guide</span> by filling out the following fields.
+            Ready to get organized and stay on track? You can generate an <span className="font-bold">Interactive Introduction to Biology Completion Guide</span> by filling out the following fields.
           </p>
           <p className="text-base text-black font-lato mt-4">
             First, choose the date by which you want to be finished with your course. When adding this target course completion date,
             <span className="font-bold"> check the length of your course access period. </span>
-             If you're unsure when your access to your course expires, navigate to the American Politics & the U.S. Constitution page on the dashboard and look for the date to the right of the Resume button.
+             If you're unsure when your access to your course expires, navigate to the Introduction to Biology page on the dashboard and look for the date to the right of the Resume button.
             <span className="font-bold"> If you do not complete your course before your access period ends, you will incur additional tuition charges.</span>
           </p>
         </div>
