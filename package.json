@@ -2,7 +2,7 @@
   "name": "dyanamic_completion_guide",
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://academyproduct.github.io/dynamic_completion_guide/",
+  "homepage": "https://academyproduct.github.io/interactive_intro_bio_completion_guide/",
   "pkg": {
     "assets": [
       "dist/spa/*"
