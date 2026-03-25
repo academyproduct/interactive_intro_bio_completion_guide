@@ -53,7 +53,7 @@ export async function sendPageLoadXapi(pageTitle: string) {
     object: {
       id: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/",
       definition: {
-        name: {"en-US":"pageTitle" },
+        name: {"en-US":pageTitle},
         type: "http://adlnet.gov/expapi/activities/interaction",
       },
     },
