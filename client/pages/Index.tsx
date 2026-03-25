@@ -11,6 +11,7 @@ import {
   sendCompletionDateXapi,
   sendScheduleDaySelectionXapi,
   sendScheduleMinutesXapi,
+  sendPageLoadXapi,
 } from "@/lib/xapi";
 
 
@@ -82,6 +83,11 @@ export default function Index() {
 
   // Load tasks on component mount
   useEffect(() => {
+    const h1 = document.querySelector("h1");
+    const pageTitle = h1?.textContent ?? "Dynamic Pacing Guide";
+    
+    sendPageLoadXapi(pageTitle);
+    
     const loadAndInitialize = async () => {
       const tasks = await loadTasks();
       setAllTasks(tasks);
