@@ -10,6 +10,10 @@ const VERBS = {
     id: "http://id.tincanapi.com/verb/discarded",
     display: { "en-US": "discarded" },
   },
+    experienced: {
+    id: "http://adlnet.gov/expapi/verbs/experienced",
+    display: {"en-US": "experienced"},
+  },
 } as const;
 
 export type CheckboxXapiContext = {
@@ -37,6 +41,34 @@ function getOrCreateUserId(): string {
 }
 
 /**
+ * Track when the user lands on or experiences this page. Baseline for visitors vs interactors
+ */
+export async function sendPageLoadXapi(pageTitle: string) {
+  const userID = getOrCreateUserId();
+  const actor = getActor();
+
+  const statement = {
+    actor,
+    verb: VERBS.experienced,
+    object: {
+      id: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/",
+      definition: {
+        name: {"en-US":"pageTitle" },
+        type: "http://adlnet.gov/expapi/activities/interaction",
+      },
+    },
+    timestamp: new Date().toISOString(),
+  };
+
+  try {
+    await sendXapiStatement(statement);
+    console.log("[xAPI] Sent", { event: "pageLoad" });
+  } catch (err) {
+    console.error("[xAPI] Failed to send", err);
+  }
+}
+
+/**
  * Call this whenever a checkbox is toggled.
  * It centralizes how we translate UI context → xAPI statement → send.
  */
@@ -49,12 +81,7 @@ export async function sendCheckboxXapi(ctx: CheckboxXapiContext) {
 
   // Pseudonymous actor id (stable per browser)
   const userId = getOrCreateUserId();
-  const actor = {
-    account: {
-      homePage: "https://academyproduct.github.io/dynamic_completion_guide",
-      name: userId,
-    },
-  };
+  const actor = getActor();
 
   const statement = {
     actor,
