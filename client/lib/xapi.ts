@@ -88,7 +88,7 @@ export async function sendCheckboxXapi(ctx: CheckboxXapiContext) {
     verb,
     object: {
       // Stable/meaningful activity ID for the task
-      id: `https://academyproduct.github.io/dynamic_completion_guide/xapi/task/${task.id}`,
+      id: `https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/task/${task.id}`,
       definition: {
         name: { "en-US": taskLabel },
         type: "http://adlnet.gov/expapi/activities/lesson",
@@ -98,7 +98,7 @@ export async function sendCheckboxXapi(ctx: CheckboxXapiContext) {
       contextActivities: {
         parent: [
           {
-            id: `https://academyproduct.github.io/dynamic_completion_guide/xapi/week/${weekNumber}/day/${dayKey}`,
+            id: `https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/week/${weekNumber}/day/${dayKey}`,
             definition: {
               name: { "en-US": `Week ${weekNumber} · ${dayKey}` },
             },
@@ -106,13 +106,13 @@ export async function sendCheckboxXapi(ctx: CheckboxXapiContext) {
         ],
       },
       extensions: {
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/weekNumber": weekNumber,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/dayKey": dayKey,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/taskId": task.id,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/module": task.module,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/unit": task.unit,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/page": task.page,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/activity_type": task.activity_type,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/weekNumber": weekNumber,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/dayKey": dayKey,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/taskId": task.id,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/module": task.module,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/unit": task.unit,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/page": task.page,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/activity_type": task.activity_type,
       },
     },
     timestamp: new Date().toISOString(),
@@ -138,7 +138,7 @@ function getActor() {
   const userId = getOrCreateUserId();
   return {
     account: {
-      homePage: "https://academyproduct.github.io/dynamic_completion_guide",
+      homePage: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/",
       name: userId,
     },
   };
@@ -155,7 +155,7 @@ export async function sendCompletionDateXapi(completionDate: string) {
     actor,
     verb: VERBS.selected,
     object: {
-      id: "https://academyproduct.github.io/dynamic_completion_guide/xapi/ui/completion-date",
+      id: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ui/completion-date",
       definition: {
         name: { "en-US": "Desired Completion Date" },
         type: "http://adlnet.gov/expapi/activities/interaction",
@@ -163,7 +163,7 @@ export async function sendCompletionDateXapi(completionDate: string) {
     },
     context: {
       extensions: {
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/completionDate": completionDate,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/completionDate": completionDate,
       },
     },
     timestamp: new Date().toISOString(),
@@ -188,7 +188,7 @@ export async function sendScheduleDaySelectionXapi(dayKey: DayKey, selected: boo
     actor,
     verb,
     object: {
-      id: "https://academyproduct.github.io/dynamic_completion_guide/xapi/ui/schedule/day-selection",
+      id: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ui/schedule/day-selection",
       definition: {
         name: { "en-US": "Schedule Time to Learn - Day Selection" },
         type: "http://adlnet.gov/expapi/activities/interaction",
@@ -196,8 +196,8 @@ export async function sendScheduleDaySelectionXapi(dayKey: DayKey, selected: boo
     },
     context: {
       extensions: {
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/dayKey": dayKey,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/selected": selected,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/dayKey": dayKey,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/selected": selected,
       },
     },
     timestamp: new Date().toISOString(),
@@ -223,7 +223,7 @@ export async function sendScheduleMinutesXapi(dayKey: DayKey, minutes: number) {
     // "selected" is OK for a value-set action; if you prefer, swap to an "interacted" verb later
     verb: VERBS.selected,
     object: {
-      id: "https://academyproduct.github.io/dynamic_completion_guide/xapi/ui/schedule/minutes",
+      id: "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ui/schedule/minutes",
       definition: {
         name: { "en-US": "Schedule Time to Learn - Minutes Set" },
         type: "http://adlnet.gov/expapi/activities/interaction",
@@ -231,8 +231,8 @@ export async function sendScheduleMinutesXapi(dayKey: DayKey, minutes: number) {
     },
     context: {
       extensions: {
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/dayKey": dayKey,
-        "https://academyproduct.github.io/dynamic_completion_guide/xapi/ext/minutes": minutes,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/dayKey": dayKey,
+        "https://academyproduct.github.io/interactive_intro_bio_completion_guide/xapi/ext/minutes": minutes,
       },
     },
     timestamp: new Date().toISOString(),
