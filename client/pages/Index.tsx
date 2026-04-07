@@ -13,6 +13,7 @@ import {
   sendScheduleMinutesXapi,
   sendPageLoadXapi,
   setActorEmail,
+  type DayKey,
 } from "@/lib/xapi";
 
 export const isValidEmail = (email: string): boolean => {
@@ -381,7 +382,7 @@ const handleTaskToggle = (weekNumber: number, dayKey: string, taskId: number) =>
                   <WeekdayButton
                     day={day.label}
                     selected={selectedDays.includes(day.key)}
-                    onClick={() => toggleDay(day.key)}
+                    onClick={() => toggleDay(day.key as DayKey)}
                   />
                 </div>
               ))}
