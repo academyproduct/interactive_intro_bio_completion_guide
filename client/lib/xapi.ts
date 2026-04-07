@@ -40,6 +40,17 @@ function getOrCreateUserId(): string {
   return id;
 }
 
+/** Module-level email for actor identification. Set via setActorEmail(). */
+let _actorEmail = "";
+
+/**
+ * Call this to update the email used in xAPI actor fields.
+ * When set to a non-empty string, statements use a mailto IFI instead of an anonymous account.
+ */
+export function setActorEmail(email: string) {
+  _actorEmail = email;
+}
+
 /**
  * Track when the user lands on or experiences this page. Baseline for visitors vs interactors
  */
@@ -135,6 +146,11 @@ export async function sendCheckboxXapi(ctx: CheckboxXapiContext) {
 type DayKey = "M" | "T" | "W" | "Th" | "F" | "S" | "Su";
 
 function getActor() {
+  if (_actorEmail) {
+    return {
+      mbox: `mailto:${_actorEmail}`,
+    };
+  }
   const userId = getOrCreateUserId();
   return {
     account: {
